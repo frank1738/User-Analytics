@@ -8,7 +8,6 @@ import {
   StackingColumnSeries,
   Tooltip,
 } from '@syncfusion/ej2-react-charts';
-
 import {
   stackedCustomSeries,
   stackedPrimaryXAxis,
