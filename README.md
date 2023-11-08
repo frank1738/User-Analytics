@@ -52,7 +52,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Admin Dashboard](https://admin-dashboard-hpi4.onrender.com)
+- [Admin Dashboard](https://654bd123f3d384254b04dd6e--spectacular-kelpie-9e3eab.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
