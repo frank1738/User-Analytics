@@ -44,7 +44,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **Dashboard**
-- **Seven four functional charts**
+- **four functional charts**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
